@@ -1,0 +1,31 @@
+h1, h2, thead, tbody {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #663399;
+}
+
+
+thead {
+    background-color: #DCA0DB;
+    padding: 1px;
+}
+
+thead, tbody {
+    font-size: 16px;
+}
+
+table {
+    border: 2px solid purple;
+    width: 650px;
+}
+
+td {
+    border-top: 1px solid purple;
+}
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+}
